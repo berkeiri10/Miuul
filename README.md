@@ -1,4 +1,4 @@
-# Miuul
+# Miuul - Python Programming for Data Science
 
 ***TR***
 - Bu repo **Miuul**'un **Python Programming for Data Science** dersinde öğrendiklerimi içermektedir.
